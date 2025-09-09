@@ -1,11 +1,4 @@
 
-  # User-Friendly Sign-Up Flow
+ONLINE TICKET BOOKING PLATFORM 
 
-  This is a code bundle for User-Friendly Sign-Up Flow. The original project is available at https://www.figma.com/design/jRqnzVHJ9XxXuGeiW8oAGj/User-Friendly-Sign-Up-Flow.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+single platform for booking movies sports and streams tickets at first..
